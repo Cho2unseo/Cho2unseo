@@ -17,7 +17,7 @@
 🫠 Me
 
  <a href="mailto:escces00@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href=https://velog.io/@ezzangs" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href=https://velog.io/@ezzangs target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white"/></a>
 <p></p>
 
